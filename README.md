@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--
 **7Gamil/7Gamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  
+#### 🌟 Visitors over time
+![Visitors](https://komarev.com/ghpvc/?username=7gamil&label=PROFILE+VIEWS&style=plastic)
+
+</div>
 
 <!-- Coding state -->
 <div align="center">
