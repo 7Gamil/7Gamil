@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  
+[Peter7Gamil@gmail.com](mailto:peter7gamil@gmail.com)
+  
+</div>
 
 <div align="center">
   
