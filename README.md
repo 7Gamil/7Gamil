@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=gradient&text=Peter%20Gamil&animation=twinkling&desc=Machine%20Learning&descAlign=50&descAlignY=85" width=100%>
+
 ## Hi there 👋
 <!--
 **7Gamil/7Gamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
