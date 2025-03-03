@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=gradient&text=Peter%20Gamil&animation=twinkling&desc=Machine%20Learning&descAlign=50&descAlignY=85" width=100%>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=gradient&text=Peter%20Gamil&animation=twinkling&desc=Machine%20Learning&descAlign=50&descAlignY=85" width=100%> -->
 
 ## Hi there 👋
 <!--
