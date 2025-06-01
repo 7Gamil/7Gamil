@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-
-</div>
+My Email  <br/>
+<img src="https://api.iconify.design/fluent:mail-32-filled.svg?color=%23ff4500" alt="External Link Icon" width="32" height="32" />
+<a href="mailto:peter7gamil@gmail.com)" target="_blank">
+  peter7gamil@gmail.com
+</a>
 
 <div align="center">
   
@@ -25,12 +28,13 @@ Here are some ideas to get you started:
 
 </div>
 
-<br/>
-
 <div align="center">
   
-[Portfolio Projects](https://github.com/7Gamil/Portfolio-Projects/) <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><!-- Icon from Tabler Icons by Paweł Kuna - https://github.com/tabler/tabler-icons/blob/master/LICENSE --><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6m-7 1l9-9m-5 0h5v5"/></svg>
-  
+<a href="https://github.com/7Gamil/Portfolio-Projects/" target="_blank">
+  Portfolio Projects 
+  <img src="https://api.iconify.design/tabler:external-link.svg?color=%23ff4500" alt="External Link Icon" width="16" height="16" style="vertical-align: text-bottom;" />
+</a>
+
 </div>
 
 <br/>
