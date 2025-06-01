@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
 My Email  <br/>
 📧
-<a href="mailto:peter7gamil@gmail.com)" target="_blank">
+<a href="mailto:peter7gamil@gmail.com" target="_blank">
 peter7gamil@gmail.com
 </a>
 
@@ -31,7 +31,7 @@ peter7gamil@gmail.com
 <div align="center">
   
 <a href="https://github.com/7Gamil/Portfolio-Projects/" target="_blank" rel="noopener noreferrer">
-  Portfolio Projects <img src="https://api.iconify.design/tabler:external-link.svg?color=%23ff4500" alt="External Link Icon" width="16" height="16" />
+  Portfolio Projects <img src="https://api.iconify.design/tabler:external-link.svg?color=%23ff4500" width="16" height="16" />
 </a>
 
 </div>
