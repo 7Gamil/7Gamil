@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 My Email  <br/>
-<img src="https://api.iconify.design/fluent:mail-32-filled.svg?color=%23ff4500" alt="External Link Icon" width="32" height="32" />
+📧
 <a href="mailto:peter7gamil@gmail.com)" target="_blank">
-  peter7gamil@gmail.com
+peter7gamil@gmail.com
 </a>
 
 <div align="center">
@@ -30,9 +30,8 @@ My Email  <br/>
 
 <div align="center">
   
-<a href="https://github.com/7Gamil/Portfolio-Projects/" target="_blank">
-  Portfolio Projects 
-  <img src="https://api.iconify.design/tabler:external-link.svg?color=%23ff4500" alt="External Link Icon" width="16" height="16" style="vertical-align: text-bottom;" />
+<a href="https://github.com/7Gamil/Portfolio-Projects/" target="_blank" rel="noopener noreferrer">
+  Portfolio Projects <img src="https://api.iconify.design/tabler:external-link.svg?color=%23ff4500" alt="External Link Icon" width="16" height="16" />
 </a>
 
 </div>
