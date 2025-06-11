@@ -28,6 +28,7 @@ peter7gamil@gmail.com
 
 </div>
 
+<!-- old
 <div align="center">
   
 <a href="https://github.com/7Gamil/Portfolio-Projects/" target="_blank" rel="noopener noreferrer">
@@ -36,6 +37,16 @@ peter7gamil@gmail.com
 
 </div>
 
+-->
+
+
+<div align="center">
+  
+<a href="https://github.com/7Gamil/Portfolio-Projects/">
+<img src="resources/portfolio1.svg" alt="Portfolio Icon" style="height: 48px;"/>
+</a>
+
+</div>
 <br/>
 <!-- Coding state -->
 <div align="center">
