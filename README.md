@@ -53,6 +53,7 @@ peter7gamil@gmail.com
 
 [![Coding](https://wakatime.com/badge/user/cba7b0b1-3b6f-433a-b03e-8bdc442edafa.svg)](https://wakatime.com/@cba7b0b1-3b6f-433a-b03e-8bdc442edafa)
 
-[![Peter's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=7Gamil&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Peter's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=7Gamil&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
+![Peter's wakatime stats](https://github-readme-stats-cyyin.vercel.app/api/wakatime?username=7Gamil&theme=dracula)
 
 </div>
